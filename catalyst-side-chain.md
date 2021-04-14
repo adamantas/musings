@@ -30,4 +30,6 @@ Every update from the dev team on the progress of the project should be captured
 
 If anyone sees ideas shared here that are interesting, don’t hesitate to reach out and talk about it. This also will be posted on Reddit and Twitter. 
 
-See you in the townhall chat fellow cardanians! And all the best!
+Check out our proposal for the Catalyst Fund 5 Metadata Challenge: [Graph DB Sidechain with Fluree](https://cardano.ideascale.com/a/dtd/Graph-DB-Sidechain-with-Fluree/352531-48088).
+
+See you in the townhall chat fellow Cardanians! And all the best!
