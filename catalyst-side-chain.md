@@ -8,7 +8,7 @@ We'll be using [Fluree](https://flur.ee) as a Cardano's data centric side-chain 
 
 ## Idea = NFT
 
-Everything on the Project Catalyst starts from an idea. This is an instance of creativity, that we represent by NFT in our creativity value chain model. It has economic value potential measured in required investment and impact on the Cardano ecosystem. Initially we are not sure of this potential and we send this idea into a rigorous process involving multiple people who contribute their creativity into the idea's evolution. This is a creative value chain where everything counts: kudos, comments, community advisor reviews. And that’s metadata, that can be represented by a temporal knowledge graph in Fluree and be preserved in a blockchain forever. 
+Everything on the Project Catalyst starts from an idea. This is an instance of creativity, that we represent by NFT in our [creativity value chain model](nft-creative-economy.md). It has economic value potential measured in required investment and impact on the Cardano ecosystem. Initially we are not sure of this potential and we send this idea into a rigorous process involving multiple people who contribute their creativity into the idea's evolution. This is a creative value chain where everything counts: kudos, comments, community advisor reviews. And that’s metadata, that can be represented by a temporal knowledge graph in Fluree and be preserved in a blockchain forever. 
 
 ## Process = Knowledge Graph = Metadata
 

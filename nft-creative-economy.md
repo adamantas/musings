@@ -28,7 +28,7 @@ In order to do this, we need to understand what gives creativity its value.
 
 ## Creativity Value Model
 
-[Marcus O’Dair] (https://www.marcusodair.com/) in his book [Distributed Creativity - How Blockchain Technology will Transform the Creative Economy](https://www.palgrave.com/gp/book/9783030001896), breaks down the value of creativity into economic and cultural, where cultural is further subdivided into six other values:
+[Marcus O’Dair](https://www.marcusodair.com/) in his book [Distributed Creativity - How Blockchain Technology will Transform the Creative Economy](https://www.palgrave.com/gp/book/9783030001896), breaks down the value of creativity into economic and cultural, where cultural is further subdivided into six other values:
 
 - Economic
     - value represented by money
