@@ -1,6 +1,6 @@
 # Cardano Catalyst on the Fluree Sidechain
 
-Another great example of a creativity value chain is Cardano’s own Project Catalyst. It fits into this model like a glove. 
+Another great example of a [creativity value chain](https://github.com/adamantas/musings/blob/main/nft-creative-economy.md) is Cardano’s own Project Catalyst. It fits into this model like a glove. 
 
 Charles in his [Some Musings about the Roadmap](https://www.youtube.com/watch?v=WRYRjmMvkJM) video suggests that he’d love to see Catalyst implemented as one of the Cardano’s sidechains. Hopefully we are on the same page as this wise man. 
 
